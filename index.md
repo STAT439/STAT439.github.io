@@ -102,7 +102,7 @@ PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat43
 
 ---
 
-### Week Three (September 1 - September 7): Inference for Proportions
+### Week Three (September 1 - September 7): Bayesian Inference for Proportions
 
 --- 
 
