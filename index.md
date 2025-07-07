@@ -113,7 +113,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 ---
-### Week Eight (October 6 - October 12): Midterm Exam 
+### Week Eight (October 6 - October 12): 
 
 ---
 
@@ -139,6 +139,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ### Week Thirteen (November 10 - November 16): 
 ---
 
+- No class on Tuesday November 11th (Veteran's Day)
 
 ---
 ### Week Fourteen (November 17 - November 23): 
