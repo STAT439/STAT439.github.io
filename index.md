@@ -69,6 +69,17 @@ Federal law mandates the provision of services at the university-level to qualif
 
 officehours: "TBD"
 
+### Schedule of Topics
+
+1.  Inference for Proportions
+2.  Contingency Tables
+3.  Generalized Linear Models: 
+  i. Binary Data
+  ii. Count Data
+  iii. Multicategory Data
+4. Matched Pairs Data
+5. Generalized Linear Mixed Models
+6. Machine Learning Tools for Classification
 
 ### Syllabus
 
