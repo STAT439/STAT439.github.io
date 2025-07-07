@@ -1,4 +1,4 @@
-### Course Overview
+## Course Overview
 
 This course provides an overview of testing and analysis of categorical data including contingency table analysis, Poisson regression, logistic regression, log-linear models, and multicategory logit models. 
 
@@ -65,11 +65,12 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
 
+### Syllabus
+
+PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat439_2025.pdf](https://github.com/STAT439/syllabus/blob/main/stat439_2025.pdf).
 
 ## Course Schedule
 
-
----
 
 ### Week One (August 18 - 24): Course Overview
 
