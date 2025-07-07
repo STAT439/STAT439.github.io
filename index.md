@@ -96,70 +96,70 @@ PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat43
 
 ---
 
-### Week Two (August 25 - 31): 
+### Week Two (August 25 - 31): Inference for Proportions
 
 ---
 
 ---
 
-### Week Three (September 1 - September 7): 
+### Week Three (September 1 - September 7): Inference for Proportions
 
 --- 
 
 ---
 
-### Week Four (September 8 - September 14): 
+### Week Four (September 8 - September 14): Contingency Tables
 
 --- 
 
 
 ---
 
-### Week Five (September 15 - September 21): 
+### Week Five (September 15 - September 21): Contingency Tables
 
 --- 
 
 ---
 
-### Week Six (September 22 - September 28): 
+### Week Six (September 22 - September 28): GLMs: Binary Regression
 ---
 
 ---
-### Week Seven (September 29 - October 5): 
----
-
-
----
-### Week Eight (October 6 - October 12): 
-
----
-
----
-### Week Nine (October 13 - October 19): 
+### Week Seven (September 29 - October 5): GLMs: Binary Regression
 ---
 
 
 ---
-### Week Ten (October 20 - October 26): 
+### Week Eight (October 6 - October 12): Midterm Exam
+
 ---
 
 ---
-### Week Eleven (October 27 - November 2): 
----
-
----
-### Week Twelve (November 3 - November 9): 
+### Week Nine (October 13 - October 19): GLMs: Count Regression
 ---
 
 
 ---
-### Week Thirteen (November 10 - November 16): 
+### Week Ten (October 20 - October 26): GLMs: Count Regression
+---
+
+---
+### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
+---
+
+---
+### Week Twelve (November 3 - November 9): Matched Pairs Data
+---
+
+
+---
+### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
 ---
 
 - No class on Tuesday November 11th (Veteran's Day)
 
 ---
-### Week Fourteen (November 17 - November 23): 
+### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
 ---
 
 ---
@@ -168,7 +168,7 @@ PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat43
 
 
 ---
-### Week Sixteen (December 1 - December 7):  
+### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
 ---
 
   
