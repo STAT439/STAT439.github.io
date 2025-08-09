@@ -67,7 +67,9 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ### Office Hours
 
-officehours: "TBD"
+officehours: 
+- Tuesday, 12 - 130
+- Thursday 920 - 1050
 
 ### Schedule of Topics
 
