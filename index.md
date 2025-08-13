@@ -94,7 +94,7 @@ PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat43
 
 ---
 
-
+__Thursday August 21:__ [Week 1 Activity](https://github.com/STAT439/Activities/blob/main/Week1.pdf)
 
 ---
 
