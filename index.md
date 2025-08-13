@@ -101,6 +101,8 @@ __Thursday August 21:__ [Week 1 Activity](https://github.com/STAT439/Activities/
 ### Week Two (August 25 - 31): Inference for Proportions
 
 ---
+__Tuesday August 26:__
+    - [HW 1 due (8AM)](https://github.com/STAT439/HW/blob/main/HW1_439.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/HW/refs/heads/main/HW1_439.qmd?token=GHSAT0AAAAAADI5WTVEQZJ52MWB5EYGX6HA2E47SAA))
 
 ---
 
