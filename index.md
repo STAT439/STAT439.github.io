@@ -75,10 +75,10 @@ officehours:
 
 1.  Inference for Proportions
 2.  Contingency Tables
-3.  Generalized Linear Models: 
-  i. Binary Data
-  ii. Count Data
-  iii. Multicategory Data
+3.  Generalized Linear Models
+    - Binary Data
+    - Count Data
+    - Multicategory Data
 4. Matched Pairs Data
 5. Generalized Linear Mixed Models
 6. Machine Learning Tools for Classification
