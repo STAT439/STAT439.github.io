@@ -15,6 +15,7 @@
  
 - Thursday August 28:
     - Lab 1
+      
 ---
 
 #### Week Three (September 1 - September 7): Bayesian Inference for Proportions
