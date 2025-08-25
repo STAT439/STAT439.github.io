@@ -1,3 +1,92 @@
+## Course Schedule
+
+
+#### Week One (August 18 - 24): Course Overview
+
+- Thursday August 21: [Week 1 Activity](https://github.com/STAT439/Activities/blob/main/Week1.pdf)
+
+---
+
+#### Week Two (August 25 - 31): Inference for Proportions
+
+- Tuesday August 26:
+    - [HW 1 due (8AM)](https://github.com/STAT439/HW/blob/main/HW1_439.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/HW/refs/heads/main/HW1_439.qmd?token=GHSAT0AAAAAADI5WTVEQZJ52MWB5EYGX6HA2E47SAA))
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week2.qmd))
+ 
+- Thursday August 28:
+    - Lab 1
+---
+
+#### Week Three (September 1 - September 7): Bayesian Inference for Proportions
+
+
+---
+
+#### Week Four (September 8 - September 14): Contingency Tables
+
+
+
+---
+
+#### Week Five (September 15 - September 21): Contingency Tables
+
+
+---
+
+#### Week Six (September 22 - September 28): GLMs: Binary Regression
+
+---
+
+#### Week Seven (September 29 - October 5): GLMs: Binary Regression
+
+
+
+---
+#### Week Eight (October 6 - October 12): Midterm Exam
+
+
+---
+#### Week Nine (October 13 - October 19): GLMs: Count Regression
+
+
+---
+#### Week Ten (October 20 - October 26): GLMs: Count Regression
+
+---
+
+#### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
+
+---
+
+#### Week Twelve (November 3 - November 9): Matched Pairs Data
+
+
+---
+#### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
+
+- No class on Tuesday November 11th (Veteran's Day)
+
+---
+#### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
+
+---
+#### Week Fifteen (November 24 - 30): Fall Break
+
+
+---
+#### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
+
+  
+---
+#### Week Seventeen (December 8 - December 14): Finals Week
+
+
+- Final Exam In Class: Thursday December 11	8:00am-9:50am
+
+---
+
+
+
 ## Course Overview
 
 This course provides an overview of testing and analysis of categorical data including contingency table analysis, Poisson regression, logistic regression, log-linear models, and multicategory logit models. 
@@ -86,103 +175,4 @@ officehours:
 ### Syllabus
 
 PDF syallabus available at [https://github.com/STAT439/syllabus/blob/main/stat439_2025.pdf](https://github.com/STAT439/syllabus/blob/main/stat439_2025.pdf).
-
-## Course Schedule
-
-
-### Week One (August 18 - 24): Course Overview
-
----
-
-__Thursday August 21:__ [Week 1 Activity](https://github.com/STAT439/Activities/blob/main/Week1.pdf)
-
----
-
-### Week Two (August 25 - 31): Inference for Proportions
-
----
-__Tuesday August 26:__
-    - [HW 1 due (8AM)](https://github.com/STAT439/HW/blob/main/HW1_439.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/HW/refs/heads/main/HW1_439.qmd?token=GHSAT0AAAAAADI5WTVEQZJ52MWB5EYGX6HA2E47SAA))
-
----
-
-### Week Three (September 1 - September 7): Bayesian Inference for Proportions
-
---- 
-
----
-
-### Week Four (September 8 - September 14): Contingency Tables
-
---- 
-
-
----
-
-### Week Five (September 15 - September 21): Contingency Tables
-
---- 
-
----
-
-### Week Six (September 22 - September 28): GLMs: Binary Regression
----
-
----
-### Week Seven (September 29 - October 5): GLMs: Binary Regression
----
-
-
----
-### Week Eight (October 6 - October 12): Midterm Exam
-
----
-
----
-### Week Nine (October 13 - October 19): GLMs: Count Regression
----
-
-
----
-### Week Ten (October 20 - October 26): GLMs: Count Regression
----
-
----
-### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
----
-
----
-### Week Twelve (November 3 - November 9): Matched Pairs Data
----
-
-
----
-### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
----
-
-- No class on Tuesday November 11th (Veteran's Day)
-
----
-### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
----
-
----
-### Week Fifteen (November 24 - 30): Fall Break
----
-
-
----
-### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
----
-
-  
----
-### Week Seventeen (December 8 - December 14): Finals Week
----
-
-- Final Exam In Class: Thursday December 11	8:00am-9:50am
-
----
-
-
 
