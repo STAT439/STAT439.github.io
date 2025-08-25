@@ -19,6 +19,10 @@
 
 #### Week Three (September 1 - September 7): Bayesian Inference for Proportions
 
+- Tuesday September 2:
+    - [Video Lecture: Bayesian Inference](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82d57f07-9242-4003-8746-b344012b79e5)(~16 minutes) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week3_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week3_script.qmd))
+    - HW 2 due (8AM) (Submit notes from video lecture to gradescope)
+      
 
 ---
 
