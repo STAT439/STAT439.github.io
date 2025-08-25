@@ -14,7 +14,7 @@
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week2.qmd))
  
 - Thursday August 28:
-    - Lab 1
+    - [Lab 1](https://github.com/STAT439/Lab/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab1.qmd)) (Due Thursday September 4 at 8AM to Gradescope)
       
 ---
 
