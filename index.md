@@ -11,7 +11,7 @@
 
 - Tuesday August 26:
     - [HW 1 due (8AM)](https://github.com/STAT439/HW/blob/main/HW1_439.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/HW/refs/heads/main/HW1_439.qmd?token=GHSAT0AAAAAADI5WTVEQZJ52MWB5EYGX6HA2E47SAA))
-    - [Activity](https://github.com/STAT439/Activities/blob/main/Week2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week2.qmd))
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week2.qmd)) ([Key: PDF](https://github.com/STAT439/Activities/blob/main/Week2_key.pdf)) ([Key: QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week2_key.qmd))
  
 - Thursday August 28:
     - [Lab 1](https://github.com/STAT439/Lab/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab1.qmd)) (Due Thursday September 4 at 8AM to Gradescope)
