@@ -32,7 +32,9 @@
 
 #### Week Four (September 8 - September 14): Contingency Tables
 
-
+- Tuesday September 9:
+      - [Video Lecture: Contingency Tables](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b66a3efe-b566-4a7d-8d60-b34e012aa77f) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week4_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week4_script.qmd))
+      - HW 3 due (8 AM) (Submit notes from video lecture to gradescope)
 
 ---
 
