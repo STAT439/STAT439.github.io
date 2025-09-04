@@ -25,7 +25,8 @@
     - HW 2 due (8AM) (Submit notes from video lecture to gradescope)
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week3.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week3.qmd))
       
-
+- Thursday September 4:
+    - [Lab2](https://github.com/STAT439/Lab/blob/main/Lab2.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab2.qmd))
 ---
 
 #### Week Four (September 8 - September 14): Contingency Tables
