@@ -27,6 +27,7 @@
       
 - Thursday September 4:
     - [Lab2](https://github.com/STAT439/Lab/blob/main/Lab2.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab2.qmd))
+      
 ---
 
 #### Week Four (September 8 - September 14): Contingency Tables
