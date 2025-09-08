@@ -23,7 +23,7 @@
 - Tuesday September 2:
     - [Video Lecture: Bayesian Inference](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82d57f07-9242-4003-8746-b344012b79e5)(~16 minutes) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week3_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week3_script.qmd))
     - HW 2 due (8AM) (Submit notes from video lecture to gradescope)
-    - [Activity](https://github.com/STAT439/Activities/blob/main/Week3.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week3.qmd))
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week3.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week3.qmd)) ([Key](https://github.com/STAT439/Activities/blob/main/Week3_key.pdf))
       
 - Thursday September 4:
     - [Lab2](https://github.com/STAT439/Lab/blob/main/Lab2.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab2.qmd))
@@ -32,10 +32,14 @@
 
 #### Week Four (September 8 - September 14): Contingency Tables
 
-- Tuesday September 9:
-      - [Video Lecture: Contingency Tables](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b66a3efe-b566-4a7d-8d60-b34e012aa77f) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week4_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week4_script.qmd))
-      - HW 3 due (8 AM) (Submit notes from video lecture to gradescope)
+- Tuesday September 9:  
+    - [Video Lecture: Contingency Tables](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b66a3efe-b566-4a7d-8d60-b34e012aa77f) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week4_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week4_script.qmd))
+    - HW 3 due (8 AM) (Submit notes from video lecture to gradescope)
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week4.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week4.qmd))
 
+- Tuesday September 11:
+    - Lab 3     
+  
 ---
 
 #### Week Five (September 15 - September 21): Contingency Tables
