@@ -44,6 +44,9 @@
 
 #### Week Five (September 15 - September 21): Contingency Tables
 
+- Tuesday September 16:
+    - [Video Lecture: Contingency Tables 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dfbcd00-c6f2-46a9-b947-b3550124dd8e) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week5_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week5_script.qmd))
+    - HW 4 due (8 AM) (Submit notes from video lecture to gradescope)     
 
 ---
 
