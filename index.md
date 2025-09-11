@@ -38,7 +38,7 @@
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week4.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week4.qmd))
 
 - Tuesday September 11:
-    - Lab 3     
+    - [Lab 3](https://github.com/STAT439/Lab/blob/main/Lab3.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab3.qmd))
   
 ---
 
