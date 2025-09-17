@@ -37,7 +37,7 @@
     - HW 3 due (8 AM) (Submit notes from video lecture to gradescope)
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week4.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week4.qmd)) ([Key PDF](https://github.com/STAT439/Activities/blob/main/Week4_key.pdf))
 
-- Tuesday September 11:
+- Thursday September 11:
     - [Lab 3](https://github.com/STAT439/Lab/blob/main/Lab3.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab3.qmd))
   
 ---
@@ -49,6 +49,9 @@
     - HW 4 due (8 AM) (Submit notes from video lecture to gradescope)
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week5.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week5.qmd)) ([Key PDF](https://github.com/STAT439/Activities/blob/main/Week5_key.pdf)) ([Key QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week5_key.qmd))
 
+- Thursday September 18:
+    - [Lab 4](https://github.com/STAT439/Lab/blob/main/Lab4.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab4.qmd))
+  
 ---
 
 #### Week Six (September 22 - September 28): GLMs: Binary Regression
