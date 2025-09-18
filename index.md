@@ -56,6 +56,9 @@
 
 #### Week Six (September 22 - September 28): GLMs: Binary Regression
 
+- Tuesday September 23:
+    - [Video Lecture: GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8638f529-ca7b-4881-9179-b35c01574bf2) 
+
 ---
 
 #### Week Seven (September 29 - October 5): GLMs: Binary Regression
