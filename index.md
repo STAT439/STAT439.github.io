@@ -57,7 +57,8 @@
 #### Week Six (September 22 - September 28): GLMs: Binary Regression
 
 - Tuesday September 23:
-    - [Video Lecture: GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8638f529-ca7b-4881-9179-b35c01574bf2) 
+    - [Video Lecture: GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8638f529-ca7b-4881-9179-b35c01574bf2) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week6_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week6_script.qmd))
+    - HW 5 due (8 AM) (Submit notes from video lecture to gradescope)
 
 ---
 
