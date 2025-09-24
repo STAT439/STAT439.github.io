@@ -63,6 +63,7 @@
 
 - Thursday September 25:
     - [Lab 5](https://github.com/STAT439/Lab/blob/main/Lab4.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab5.qmd))
+      
 ---
 
 #### Week Seven (September 29 - October 5): GLMs: Binary Regression
