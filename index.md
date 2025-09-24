@@ -61,19 +61,28 @@
     - HW 5 due (8 AM) (Submit notes from video lecture to gradescope)
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week6.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6.qmd)) ([Key PDF](https://github.com/STAT439/Activities/blob/main/Week6_key.pdf)) ([Key QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6_key.qmd))
 
+- Thursday September 25:
+    - [Lab 5](https://github.com/STAT439/Lab/blob/main/Lab4.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab5.qmd))
 ---
 
 #### Week Seven (September 29 - October 5): GLMs: Binary Regression
 
+- Tuesday September 30:
+    - Video Lecture
+    - HW 6 due (8 AM) (Submit notes from video lecture to gradescope)
 
-
+- Thursday October 2:
+  
 ---
 #### Week Eight (October 6 - October 12): Midterm Exam
 
+- Tuesday October 7: Exam review day & take home exam assigned
+- Thursday October 9: In class exam
 
 ---
 #### Week Nine (October 13 - October 19): GLMs: Count Regression
 
+- Tuesday October 14: take home exam due
 
 ---
 #### Week Ten (October 20 - October 26): GLMs: Count Regression
