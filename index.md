@@ -59,7 +59,7 @@
 - Tuesday September 23:
     - [Video Lecture: GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8638f529-ca7b-4881-9179-b35c01574bf2) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week6_script.pdf)) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week6_script.qmd))
     - HW 5 due (8 AM) (Submit notes from video lecture to gradescope)
-    - [Activity](https://github.com/STAT439/Activities/blob/main/Week6.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6.qmd)) 
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week6.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6.qmd)) ([Key PDF](https://github.com/STAT439/Activities/blob/main/Week6_key.pdf)) ([Key QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6_key.qmd))
 
 ---
 
