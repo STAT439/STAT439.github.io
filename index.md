@@ -69,7 +69,7 @@
 #### Week Seven (September 29 - October 5): GLMs: Binary Regression
 
 - Tuesday September 30:
-    - Video Lecture
+    - [Video Lecture: Logistic Regression](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36f52dce-b382-4c28-ad18-b363012a255d) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week7_script_key.pdf)) ([QMD Source](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week7_script_key.qmd))
     - HW 6 due (8 AM) (Submit notes from video lecture to gradescope)
 
 - Thursday October 2:
