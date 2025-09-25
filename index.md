@@ -62,7 +62,7 @@
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week6.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6.qmd)) ([Key PDF](https://github.com/STAT439/Activities/blob/main/Week6_key.pdf)) ([Key QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week6_key.qmd))
 
 - Thursday September 25:
-    - [Lab 5](https://github.com/STAT439/Lab/blob/main/Lab4.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab5.qmd))
+    - [Lab 5](https://github.com/STAT439/Lab/blob/main/Lab5.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab5.qmd))
       
 ---
 
