@@ -71,7 +71,7 @@
 - Tuesday September 30:
     - [Video Lecture: Logistic Regression](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36f52dce-b382-4c28-ad18-b363012a255d) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week7_script_key.pdf)) ([QMD Source](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week7_script_key.qmd))
     - HW 6 due (8 AM) (Submit notes from video lecture to gradescope)
-    - [Activity](https://github.com/STAT439/Activities/blob/main/Week7.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week7.qmd))
+    - [Activity](https://github.com/STAT439/Activities/blob/main/Week7.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week7.qmd)) ([MD Key](https://github.com/STAT439/Activities/blob/main/Week7_key.md)) ([QMD Key](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week7_key.qmd))
 
 - Thursday October 2:
   
