@@ -74,6 +74,7 @@
     - [Activity](https://github.com/STAT439/Activities/blob/main/Week7.md) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week7.qmd)) ([MD Key](https://github.com/STAT439/Activities/blob/main/Week7_key.md)) ([QMD Key](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week7_key.qmd))
 
 - Thursday October 2:
+    - [Lab 6](https://github.com/STAT439/Lab/blob/main/Lab6.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab6.qmd)) 
   
 ---
 #### Week Eight (October 6 - October 12): Midterm Exam
