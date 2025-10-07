@@ -79,13 +79,15 @@
 ---
 #### Week Eight (October 6 - October 12): Midterm Exam
 
-- Tuesday October 7: Exam review day & take home exam assigned
+- Tuesday October 7:
+    - Exam review day
+    - [Take home exam](https://github.com/STAT439/Exam/blob/main/Midterm2025.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Exam/refs/heads/main/Midterm2025.qmd))
 - Thursday October 9: In class exam
 
 ---
 #### Week Nine (October 13 - October 19): GLMs: Count Regression
 
-- Tuesday October 14: take home exam due
+- Tuesday October 14: Take home exam due 8 AM
 
 ---
 #### Week Ten (October 20 - October 26): GLMs: Count Regression
