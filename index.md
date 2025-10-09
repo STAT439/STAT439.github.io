@@ -87,7 +87,11 @@
 ---
 #### Week Nine (October 13 - October 19): GLMs: Count Regression
 
-- Tuesday October 14: Take home exam due 8 AM
+- Tuesday October 14:
+    - [Take home exam due 8 AM](https://github.com/STAT439/Exam/blob/main/Midterm2025.pdf)
+    - [Activity 9](https://github.com/STAT439/Activities/blob/main/Week9.pdf) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week9.qmd))
+ 
+- Thursday October 16:    
 
 ---
 #### Week Ten (October 20 - October 26): GLMs: Count Regression
