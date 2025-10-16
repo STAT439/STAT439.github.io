@@ -97,6 +97,10 @@
 ---
 #### Week Ten (October 20 - October 26): GLMs: Count Regression
 
+- Tuesday October 21:
+    - [Video Lecture: Prediction Intervals](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74ac2fe9-5b13-49b1-ab47-b3780158c8ae) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week10_script_key.pdf)) ([QMD Source](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week10_script_key.qmd))
+    - HW 7 due (8 AM) (Submit notes from video lecture to gradescope)
+
 ---
 
 #### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
