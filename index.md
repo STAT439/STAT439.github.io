@@ -100,6 +100,7 @@
 - Tuesday October 21:
     - [Video Lecture: Prediction Intervals](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74ac2fe9-5b13-49b1-ab47-b3780158c8ae) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week10_script_key.pdf)) ([QMD Source](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week10_script_key.qmd))
     - HW 7 due (8 AM) (Submit notes from video lecture to gradescope)
+    - [Activity 10](https://github.com/STAT439/Activities/blob/main/Week10.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week10.qmd))
 
 ---
 
