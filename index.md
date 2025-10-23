@@ -103,7 +103,7 @@
     - [Activity 10](https://github.com/STAT439/Activities/blob/main/Week10.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week10.qmd))
 
 - Thursday October 23:
-    - No Class today - Instructor sick. We will work on Lba on Tuesday.
+    - No Class today - Instructor sick. We will work on Lab on Tuesday.
       
 ---
 
