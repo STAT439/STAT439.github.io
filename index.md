@@ -103,11 +103,14 @@
     - [Activity 10](https://github.com/STAT439/Activities/blob/main/Week10.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week10.qmd))
 
 - Thursday October 23:
-    - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))
+    - No Class today - Instructor sick. We will work on Lba on Tuesday.
       
 ---
 
 #### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
+
+- Tuesday October 28:
+    - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))- 
 
 ---
 
