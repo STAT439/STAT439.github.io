@@ -107,23 +107,41 @@
       
 ---
 
-#### Week Eleven (October 27 - November 2): GLMs: Multicategory Data
+#### Week Eleven (October 27 - November 2): GLMs / Multicategory Data
 
 - Tuesday October 28:
-    - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))- 
+    - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))
+ 
+- Thursday October 30:
+    - Activity: Multicategory Data 
 
 ---
 
-#### Week Twelve (November 3 - November 9): Matched Pairs Data
+#### Week Twelve (November 3 - November 9): Multicategory Data / Generalized Linear Mixed Models
 
+- Tuesday November 4:
+    - Activity: Multicategory Data
+ 
+- Thursday November 6:
+    - Lab: Multicategory Data 
 
 ---
 #### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
 
-- No class on Tuesday November 11th (Veteran's Day)
+- Tuesday November 11:
+    - No Class: Veteran's Day
+ 
+- Thursday November 13:
+    - Activity: Generalized Linear Mixed Models
 
 ---
 #### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
+
+- Tuesday November 18:
+    - Activity: Generalized Linear Mixed Models
+ 
+- Thursday November 20:
+    - Lab: Generalized Linear Mixed Models
 
 ---
 #### Week Fifteen (November 24 - 30): Fall Break
@@ -132,12 +150,19 @@
 ---
 #### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
 
+- Tuesday December 2:
+    - Activity: Classification
+ 
+- Thursday December 4:
+    - Lab: Classification
+
   
 ---
 #### Week Seventeen (December 8 - December 14): Finals Week
 
-
-- Final Exam In Class: Thursday December 11	8:00am-9:50am
+- Thursday December 11:
+    - Final Exam In Class: 8:00am-9:50am
+    - Take Home Exam Due
 
 ---
 
