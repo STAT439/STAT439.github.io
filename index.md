@@ -113,7 +113,7 @@
     - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))
  
 - Thursday October 30:
-    - Activity: Multicategory Data 
+    - [Lecture: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week11.pdf)
 
 ---
 
