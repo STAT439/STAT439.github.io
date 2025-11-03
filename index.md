@@ -120,7 +120,7 @@
 #### Week Twelve (November 3 - November 9): Multicategory Data / Generalized Linear Mixed Models
 
 - Tuesday November 4:
-    - Activity: Multicategory Data
+    - [Activity: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week12.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12.qmd))
  
 - Thursday November 6:
     - Lab: Multicategory Data 
