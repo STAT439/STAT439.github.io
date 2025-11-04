@@ -89,7 +89,7 @@
 
 - Tuesday October 14:
     - [Take home exam due 8 AM](https://github.com/STAT439/Exam/blob/main/Midterm2025.pdf)
-    - [Activity 9](https://github.com/STAT439/Activities/blob/main/Week9.pdf) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week9.qmd))
+    - [Activity 9](https://github.com/STAT439/Activities/blob/main/Week9.pdf) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week9.qmd)) ([Key: PDF](https://github.com/STAT439/Activities/blob/main/Week9_key.pdf)) ([Key: QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week9_key.qmd))
  
 - Thursday October 16:
     - [Lab 7](https://github.com/STAT439/Lab/blob/main/Lab7.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab7.qmd))     
@@ -100,7 +100,7 @@
 - Tuesday October 21:
     - [Video Lecture: Prediction Intervals](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74ac2fe9-5b13-49b1-ab47-b3780158c8ae) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week10_script_key.pdf)) ([QMD Source](https://raw.githubusercontent.com/STAT439/VideoScripts/refs/heads/main/Week10_script_key.qmd))
     - HW 7 due (8 AM) (Submit notes from video lecture to gradescope)
-    - [Activity 10](https://github.com/STAT439/Activities/blob/main/Week10.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week10.qmd))
+    - [Activity 10](https://github.com/STAT439/Activities/blob/main/Week10.md) ([QMD Source](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week10.qmd)) ([Key: MD](https://github.com/STAT439/Activities/blob/main/Week10_key.md))
 
 - Thursday October 23:
     - No Class today - Instructor sick. We will work on Lab on Tuesday.
@@ -113,14 +113,14 @@
     - [Lab 8](https://github.com/STAT439/Lab/blob/main/Lab8.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab8.qmd))
  
 - Thursday October 30:
-    - [Lecture: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week11.pdf)
+    - [Lecture: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week11.pdf) ([annotated PDF](https://github.com/STAT439/Activities/blob/main/Week11_scribbles.pdf))
 
 ---
 
 #### Week Twelve (November 3 - November 9): Multicategory Data / Generalized Linear Mixed Models
 
 - Tuesday November 4:
-    - [Activity: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week12.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12.qmd))
+    - [Activity: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week12.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12.qmd)) ([Key: PDF](https://github.com/STAT439/Activities/blob/main/Week12_key.pdf)) ([Key: QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12_key.qmd))
  
 - Thursday November 6:
     - Lab: Multicategory Data 
