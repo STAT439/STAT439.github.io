@@ -123,7 +123,7 @@
     - [Activity: Multicategory Data](https://github.com/STAT439/Activities/blob/main/Week12.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12.qmd)) ([Key: PDF](https://github.com/STAT439/Activities/blob/main/Week12_key.pdf)) ([Key: QMD](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week12_key.qmd))
  
 - Thursday November 6:
-    - Lab: Multicategory Data 
+    - [Lab: Multicategory Data](https://github.com/STAT439/Lab/blob/main/Lab9.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab9.qmd))
 
 ---
 #### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
