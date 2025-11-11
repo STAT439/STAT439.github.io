@@ -151,10 +151,13 @@
 #### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
 
 - Tuesday December 2:
-    - Activity: Classification
+    - Video Lecture: Classification Algorithms
+    - HW 8 due (8 AM) (Submit notes from video lecture to gradescope)     
+    - Lab: Classification
  
 - Thursday December 4:
-    - Lab: Classification
+    - Class Review
+    - Take Home Exam Assigned
 
   
 ---
