@@ -126,13 +126,13 @@
     - [Lab: Multicategory Data](https://github.com/STAT439/Lab/blob/main/Lab9.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Lab/refs/heads/main/Lab9.qmd))
 
 ---
-#### Week Thirteen (November 10 - November 16): Generalized Linear Mixed Models
+#### Week Thirteen (November 10 - November 16): Correlated Categorical Data
 
 - Tuesday November 11:
     - No Class: Veteran's Day
  
 - Thursday November 13:
-    - Activity: Generalized Linear Mixed Models
+    - [Lecture: Correlated Data](https://github.com/STAT439/Activities/blob/main/Week13.pdf)
 
 ---
 #### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
