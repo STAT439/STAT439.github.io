@@ -132,7 +132,7 @@
     - No Class: Veteran's Day
  
 - Thursday November 13:
-    - [Lecture: Correlated Data](https://github.com/STAT439/Activities/blob/main/Week13.pdf)
+    - [Lecture: Correlated Data](https://github.com/STAT439/Activities/blob/main/Week13.pdf) ([Annotated PDF](https://github.com/STAT439/Activities/blob/main/Week13%20scribbles.pdf))
 
 ---
 #### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
