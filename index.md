@@ -138,7 +138,7 @@
 #### Week Fourteen (November 17 - November 23): Generalized Linear Mixed Models
 
 - Tuesday November 18:
-    - Activity: Generalized Linear Mixed Models
+    - [Activity: Generalized Linear Mixed Models](https://github.com/STAT439/Activities/blob/main/Week14.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week14.qmd))
  
 - Thursday November 20:
     - Lab: Generalized Linear Mixed Models
