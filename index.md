@@ -141,7 +141,7 @@
     - [Activity: Generalized Linear Mixed Models](https://github.com/STAT439/Activities/blob/main/Week14.pdf) ([QMD Source Code](https://raw.githubusercontent.com/STAT439/Activities/refs/heads/main/Week14.qmd)) ([Key: PDF](https://github.com/STAT439/Activities/blob/main/Week14_key.pdf)) ([Key: QMD](https://github.com/STAT439/Activities/blob/main/Week14_key.qmd))
  
 - Thursday November 20:
-    - Lab: Generalized Linear Mixed Models
+    - [Lab: Generalized Linear Mixed Models](https://github.com/STAT439/Lab/blob/main/Lab10.pdf) ([QMD Source Code](https://github.com/STAT439/Lab/blob/main/Lab10.qmd))
 
 ---
 #### Week Fifteen (November 24 - 30): Fall Break
