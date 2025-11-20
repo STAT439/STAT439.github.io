@@ -151,7 +151,7 @@
 #### Week Sixteen (December 1 - December 7):  Machine Learning Tools for Classification
 
 - Tuesday December 2:
-    - [Video Lecture: Classification Algorithms](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12d8ee5d-6060-46a0-8bc2-b39b01456724) [PDF](https://github.com/STAT439/VideoScripts/blob/main/Week16_script.pdf)) ([QMD Source](https://github.com/STAT439/VideoScripts/blob/main/Week16_script.qmd))
+    - [Video Lecture: Classification Algorithms](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12d8ee5d-6060-46a0-8bc2-b39b01456724) ([PDF](https://github.com/STAT439/VideoScripts/blob/main/Week16_script.pdf)) ([QMD Source](https://github.com/STAT439/VideoScripts/blob/main/Week16_script.qmd))
     - HW 8 due (8 AM) (Submit notes from video lecture to gradescope)     
     - Lab: Classification
  
