@@ -157,7 +157,7 @@
  
 - Thursday December 4:
     - Class Review
-    - Take Home Exam Assigned
+    - [Take Home Exam Assigned](https://github.com/STAT439/Exam/blob/main/Final2025.pdf) ([QMD Source](https://github.com/STAT439/Exam/blob/main/Final2025.pdf))
 
   
 ---
@@ -165,7 +165,7 @@
 
 - Thursday December 11:
     - Final Exam In Class: 8:00am-9:50am
-    - Take Home Exam Due
+    - Take Home Exam Due: Noon
 
 ---
 
